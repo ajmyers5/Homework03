@@ -1,0 +1,23 @@
+.content{
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+    background-color: lightslategray;
+    padding: 20vh;
+    width: 100%;
+}
+.navbar-brand{
+    align-content: center;
+}
+#hr {
+    border-style: solid;
+    border-width: .3vh;
+  }
+#h2{
+    text-align: start;
+}
+#display{
+    width: 100%;
+}
+#slider{
+    width: 100%;
+}
